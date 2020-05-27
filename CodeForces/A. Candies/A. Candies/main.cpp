@@ -2,7 +2,7 @@
 //  main.cpp
 //  A. Candies
 //
-//  Created by Ricardo Abraham Chapa Romero on 21/04/20.
+//  Created by Ricardo Abraham Chapa Romero ona 21/04/20.
 //  Copyright © 2020 Ricardo Abraham Chapa Romero. All rights reserved.
 //
 
