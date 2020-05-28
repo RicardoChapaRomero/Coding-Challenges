@@ -20,6 +20,7 @@ vector<vector<string>> groupAnagrams(vector<string>& strs) {
     //pair<string,int> types;
     vector<vector<string>> res;
     int aux = 0;
+    int y = 0;
     unordered_map<string, int> types;
     int n=0;
     for(int i=0; i<strs.size(); i++){
